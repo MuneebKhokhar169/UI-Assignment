@@ -251,3 +251,8 @@ font-weight:bolder;
 .min-w-fix-400{
   min-width: 400px;
 }
+
+
+.badge-color{
+  color: rgba(168, 132, 39, 1);
+}
