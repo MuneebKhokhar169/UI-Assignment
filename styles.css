@@ -248,3 +248,6 @@ font-weight:bolder;
   background-color: rgba(0, 0, 0, 0.2);
 }
 
+.min-w-fix-400{
+  min-width: 400px;
+}
