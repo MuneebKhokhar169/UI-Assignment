@@ -57,6 +57,10 @@ border-radius: 0px;
   border-radius: 0px !important;
 }
 
+.custom-dark-btn:hover {
+  background-color: rgba(5, 138, 204, 1);
+}
+
 .section2{
   font-weight:10em ;
   font-size:clamp(18px,3vw,28px);
@@ -243,3 +247,4 @@ font-weight:bolder;
 .blackbg-transparent{
   background-color: rgba(0, 0, 0, 0.2);
 }
+
